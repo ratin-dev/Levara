@@ -405,7 +405,6 @@ const INITIAL_PRODUCTS: Product[] = [
 ];
 
 
-
 const INITIAL_CONFIG: AppConfig = {
     heroTitle: "LEVARA",
     heroSlides: [
